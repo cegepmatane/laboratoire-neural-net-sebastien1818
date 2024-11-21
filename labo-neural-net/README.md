@@ -8,4 +8,4 @@ Votre copie publique : https://colab.research.google.com/drive/1Le_XZ2joIYlMcyMw
 
 **Laboratoire au choix**  
 Possibilités : https://colab.research.google.com/drive/1TSqrvbDIkz6o69jz5EfYS31vM8pQ8eUN#scrollTo=3a9ca8b9  
-Votre copie publique :   
+Votre copie publique :  https://colab.research.google.com/drive/16UGgKE6n67ddWT3auIi4xskjkxxI6_uB?usp=sharing
